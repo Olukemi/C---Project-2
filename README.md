@@ -1,2 +1,7 @@
-# C-Project-2 | COMPENG Lab 2
-Completed Computer Engineering Lab 2 Applications using C programming language
+# compeng2sh4-lab2-starter
+
+Section: [L01]
+
+MacID: [odujinro]
+
+StudentID: [400317700]
